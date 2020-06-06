@@ -1,0 +1,44 @@
+body{
+    background-image: url(analista.jpg);
+background-position: center;
+height: auto;
+background-repeat: no-repeat;
+background-size:1400px ;
+
+}
+* {
+	
+	font-family: century gothic;
+        
+	
+}
+a{
+    color: white;
+}
+
+
+h2{
+    text-align: center;
+   background-color: dimgray;
+    color: lavenderblush;
+    
+
+}
+h1{
+    text-align: center;
+    padding: 30px;
+}
+.derecha{
+    text-align: left;
+    color: black;
+    padding: 10px;
+   
+    
+}
+.isquierda{
+    text-align: right;
+    color: lavenderblush;
+    padding: 10px;
+   
+    
+}
